@@ -1,3 +1,2 @@
-# MAS291
-# Computer project
-# Probability and Statistics
+# MAS291 - Computer project about Probability and Statistics
+
